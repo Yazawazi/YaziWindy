@@ -1,0 +1,25 @@
+{
+  "name": "yaziwindy",
+  "version": "0.1.0",
+  "description": "Oh yeah, sweet windy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yazawazi/YaziWindy.git"
+  },
+  "keywords": [
+    "windy"
+  ],
+  "author": "Yazawazi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yazawazi/YaziWindy/issues"
+  },
+  "homepage": "https://github.com/Yazawazi/YaziWindy#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
