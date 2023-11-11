@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Yazawazi/YaziWindy#readme",
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^1.6.0"
   }
 }
